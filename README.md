@@ -32,3 +32,14 @@ To run the script, you need to provide two command-line arguments: the input fil
 
 The input file should contain lines formatted as `music_id;post_url`. For example:
 
+1234567890;https://www.tiktok.com/@username/video/1234567890
+0987654321;https://www.tiktok.com/@username/video/0987654321
+
+
+### Command Line
+
+Run the script with the following command:
+
+```sh
+python tiktok_scrapper.py input_file.txt output_file.csv
+
