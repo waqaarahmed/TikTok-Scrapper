@@ -42,4 +42,9 @@ Run the script with the following command:
 
 ```sh
 python tiktok_scrapper.py input_file.txt output_file.csv
+```
+
+### Example
+
+python tiktok_scrapper.py urls.txt tiktok_data.csv
 
